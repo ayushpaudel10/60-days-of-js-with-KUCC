@@ -7,7 +7,7 @@ The internet operates on a client-server model, where users (clients) request se
 <br>
 <b>Basics of the web and how it works.</b>
 <br>
-<p>The World Wide Web (WWW or Web) is an information system accessible over the internet that allows users to access and share documents and resources linked by hyperlinks. It's built on top of the internet and relies on protocols like HTTP for transferring web pages. </p>
+<p>The World Wide Web (WWW or Web) is an information system accessible over the internet that allows users to access and share documents and resources linked by hyperlinks. It's built on top of the internet and relies on protocols like HTTP for transferring web pages.
 <br>
-<p>Websites are hosted on web servers and accessed by users through web browsers like Google Chrome, Mozilla Firefox, or Safari. Web pages are written in languages like HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript, which browsers interpret to render content. Users navigate the web by clicking hyperlinks, which direct them to different web pages or resources. </p>
+Websites are hosted on web servers and accessed by users through web browsers like Google Chrome, Mozilla Firefox, or Safari. Web pages are written in languages like HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript, which browsers interpret to render content. Users navigate the web by clicking hyperlinks, which direct them to different web pages or resources. </p>
 
